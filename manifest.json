@@ -1,0 +1,9 @@
+{
+"name" : "Harikrushn Kanani",
+"short_name" : "Harikrushn Kanani",
+"display" : "standalone",
+"description" : "Full Stack Web Developer",
+"background_color" : "#ffffff",
+"lang" : "en-US",
+"start_url" : "index.html"
+}
